@@ -1,26 +1,10 @@
 /* styles go here */
-input {
+.lab {
+  display: block;
   margin-bottom: 10px;
 }
 
 fieldset {
   margin-bottom: 20px;
-  padding-bottom: 4px;
-}
-
-.field-reg {
   padding-bottom: 0;
-}
-
-.interest {
-  margin-top: 4px;
-}
-
-.rate {
-  margin-top: 12px;
-}
-
-.recommend {
-  margin-top: 10px;
-  margin-bottom: 6px;
 }
