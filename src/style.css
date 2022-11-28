@@ -4,7 +4,11 @@
   margin-bottom: 10px;
 }
 
-fieldset {
+.field {
   margin-bottom: 20px;
   padding-bottom: 0;
+}
+
+.cat {
+  display: inline-block;
 }
